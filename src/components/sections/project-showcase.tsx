@@ -61,7 +61,7 @@ const projects = [
     title: "Comprehensive E-commerce Platform",
     description:
       "A fully-featured e-commerce platform built with Next.js and a headless CMS (Strapi) for product management. The application includes a shopping cart, user authentication, and a sleek, responsive design.",
-    image: "/ecommerce.png",
+    image: "/eccomerce.png",
     tags: ["Next.js", "Stripe", "postgresql", "TypeScript", "Tailwind CSS"],
     liveUrl: "https://ecommerce-sanity-stripe.vercel.app/",
     githubUrl: "https://github.com",
